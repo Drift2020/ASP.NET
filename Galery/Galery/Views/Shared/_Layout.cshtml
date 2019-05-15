@@ -1,0 +1,73 @@
+﻿@using System.Web.Optimization
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js" ></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/modernizr") @*библиотека, позволяющая определить, поддерживает ли браузер те или иные возможности HTML5 и CSS3*@
+    @Scripts.Render("~/bundles/jquery") @*базовая библиотека jQuery, на которую опираются большинство других скриптов*@
+    @Scripts.Render("~/bundles/jqueryunobtrusive") @*функциональность Ajax-хелперов*@
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+
+        <div class="container">
+            <div class="navbar-header">
+
+                @Html.ActionLink("Main page", "MainPage", "Home", new { area = "" }, new { @class = "navbar-brand" })
+
+                @Html.ActionLink("Others albums", "OthersAlbum", "Home", new { area = "" }, new { @class = "navbar-brand" })
+
+                @if (Session["User"] != null && Session["User"].ToString() != "")
+                {
+                    @Html.ActionLink("My albums", "MyAlbum", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                }
+                @if (Session["User"] != null && Session["User"].ToString() != "")
+                {
+                    using (Html.BeginForm("Exit", "Home", FormMethod.Post, new { @class = "navbar-brand" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="navbar-brand">
+                            <p>
+                                Hi, @Session["User"].ToString()
+                            </p>
+                        </div>
+                        <input type="submit" value="Log out" name="Log out" class="btn btn-default" />
+
+                    }
+                }
+                else
+                {
+                    @Html.ActionLink("Log in", "Login", "Account", new { area = "" }, new { @class = "navbar-brand" })
+                }
+
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav"></ul>
+            </div>
+
+        </div>
+
+    </div>
+    <hr />
+    <div class="container body-content">
+
+        @RenderBody()
+
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Galery</p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+﻿@model Music2.Models.EditSoundGenreModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EditMusicGenre</title>
+</head>
+<body>
+    <div>
+        <p>@Model.sound.Name</p>
+        @using (Html.BeginForm("Edit_genre_in_sound", "home", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            <div>
+                @Html.Hidden("uid", Model.sound.Id)
+                @foreach (var item in Model.genre)
+                {
+                    <label>@Html.DisplayFor(modelItem => item.Name)</label>
+                    <input type="checkbox" name="bettingOfficeIDs" value="@item.Id">
+                }
+            </div>
+            <input type="submit" />
+        }
+    </div>
+    <div>
+        @Html.ActionLink("Back to home", "Page")<a>|</a>
+        @Html.ActionLink("Back to panel", "AdminPanel")<a>|</a>
+        @Html.ActionLink("Back to edit", "EditMusic")
+    </div>
+</body>
+</html>

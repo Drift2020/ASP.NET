@@ -1,0 +1,93 @@
+﻿@model Galery.Models.MyAlbumModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MyAlbum</title>
+    <link href="~/Content/tables.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Create", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="navbar-brand"> <p>Name:</p></div>
+            <input type="text" name="uName" /><br />
+            <input type="file" name="fileUpload" multiple translate="yes" lang="en-ca" /><br />
+            <input type="submit" name="Submit" id="SubmitMultiply" value="Create" /><br />
+
+
+        }
+        <hr />
+
+        <table>
+            <tr>
+
+                <th>
+                    Name
+                </th>
+                <th>
+                    Count photos
+                </th>
+                <th>
+
+                </th>
+
+            </tr>
+
+            @if (Model.my_albums != null && Model.my_albums.Count > 0)
+            {
+                foreach (var item in Model.my_albums)
+                {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Photos.Count)
+                </td>
+                <td>
+                    <div style="float:left">
+                        @using (Html.BeginForm("ViewAlbum", "Home", FormMethod.Post))
+                        {
+                            @Html.AntiForgeryToken()
+                            <input type="submit" value="Open" name="Open" />
+                            @Html.Hidden("uid", item.Id)
+
+                        }
+                    </div>
+                    <div style="float:left">
+                        @using (Html.BeginForm("Edit", "Home", FormMethod.Post))
+                        {
+                            @Html.AntiForgeryToken()
+                           
+                            <input type="submit" value="Edit" name="Edit" />
+                            @Html.Hidden("uid", item.Id)
+
+                        }
+                    </div>
+                    <div style="float:left">
+                        @using (Html.BeginForm("Delete", "Home", FormMethod.Post))
+                        {
+                            @Html.AntiForgeryToken()
+                            <input type="submit" value="Delete" name="Delete" />
+                            @Html.Hidden("uid", item.Id)
+
+                        }
+                    </div>
+
+                </td>
+            </tr>
+                }
+            }
+
+        </table>
+    </div>
+</body>
+</html>

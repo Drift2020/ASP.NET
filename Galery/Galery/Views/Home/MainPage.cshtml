@@ -1,0 +1,63 @@
+﻿@model Galery.Models.MainModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Content/tables.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width" />
+    <title>MainPage</title>
+</head>
+<body>
+    <div>
+
+        <table>
+            <tr>
+
+                <th>
+                    Albums
+                </th>
+                
+
+            </tr>
+            @if (Model.six_albums != null)
+            {
+            foreach (var item in Model.six_albums)
+            {
+                <tr>
+                    <td>
+                        @if (item.Photos.ToList().Count > 0)
+                        {
+
+                            <img width="200" height="200" src="@Html.DisplayFor(modelItem => item.Photos.ToList()[0].Path)" />
+                        }
+                        <br />
+                        <h4>User: @Html.DisplayFor(modelItem => item.User.Login)</h4>
+                        <br />
+                        <h4>Name: @Html.DisplayFor(modelItem => item.Name)</h4>
+                        <br />
+                        <div style="float:left">
+                            @using (Html.BeginForm("ViewAlbum", "Home", FormMethod.Post))
+                            {
+                                @Html.AntiForgeryToken()
+                                <input type="submit" value="Open" name="Open" />
+                                @Html.Hidden("uid", item.Id)
+
+                            }
+                        </div>
+                    </td>
+
+                  
+                </tr>
+            }
+            }
+
+        </table>
+
+
+    </div>
+</body>
+</html>

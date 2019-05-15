@@ -1,0 +1,35 @@
+﻿@model Music2.Models.GenreModel
+@{
+    ViewBag.Title = "AddGener";
+}
+
+<h2>New Genre</h2>
+
+@using (Html.BeginForm())
+{
+    // Генерирует скрытое поле формы (токен борьбы с фальсификацией), которое проверяется при отправке формы.
+    @Html.AntiForgeryToken()
+    // Возвращает неупорядоченный список (элемент ul) сообщений проверки, содержащихся в объекте ModelStateDictionary.
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Genre</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+    <div>
+        @Html.ActionLink("Back to home", "Page")<a>|</a>
+        @Html.ActionLink("Back to panel", "AdminPanel")
+    </div>

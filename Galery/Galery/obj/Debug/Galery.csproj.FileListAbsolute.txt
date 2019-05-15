@@ -1,0 +1,341 @@
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\Galery.dll.config
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\Galery.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\Galery.pdb
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csc.exe
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csc.exe.config
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csc.rsp
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csi.exe
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csi.exe.config
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csi.rsp
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.AppContext.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Collections.Immutable.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Console.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Globalization.Calendars.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.IO.Compression.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.IO.FileSystem.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Net.Http.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Net.Sockets.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Reflection.Metadata.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.ValueTuple.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.XPath.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\vbc.exe
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\vbc.exe.config
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\vbc.rsp
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\VBCSCompiler.exe
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\roslyn\VBCSCompiler.exe.config
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\Microsoft.Web.Infrastructure.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Helpers.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Mvc.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Razor.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Deployment.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Razor.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Helpers.xml
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Mvc.xml
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Razor.xml
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.xml
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Deployment.xml
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Razor.xml
+E:\Program\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.csprojAssemblyReference.cache
+E:\Program\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.csproj.CoreCompileInputs.cache
+E:\Program\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.csproj.CopyComplete
+E:\Program\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.pdb
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\EntityFramework.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\EntityFramework.SqlServer.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\EntityFramework.xml
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\EntityFramework.SqlServer.xml
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\Antlr3.Runtime.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\Newtonsoft.Json.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Optimization.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\WebGrease.dll
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\Antlr3.Runtime.pdb
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\Newtonsoft.Json.xml
+E:\Program\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Optimization.xml
+E:\Program\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.Migrations.MigrateDB.resources
+E:\Program\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.csproj.GenerateResource.cache
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\Galery.dll.config
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\Galery.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\Galery.pdb
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\csc.exe
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\csc.exe.config
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\csc.rsp
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\csi.exe
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\csi.exe.config
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\csi.rsp
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.AppContext.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Console.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.IO.Compression.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Net.Http.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.ValueTuple.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\vbc.exe
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\vbc.exe.config
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\vbc.rsp
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\Antlr3.Runtime.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\EntityFramework.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\EntityFramework.SqlServer.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\Newtonsoft.Json.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.Helpers.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.Mvc.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.Optimization.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.Razor.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.WebPages.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Razor.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\WebGrease.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\Antlr3.Runtime.pdb
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\EntityFramework.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\EntityFramework.SqlServer.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\Newtonsoft.Json.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.Helpers.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.Mvc.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.Optimization.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.Razor.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.WebPages.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Razor.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\obj\Debug\Galery.Migrations.MigrateDB.resources
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\obj\Debug\Galery.csproj.GenerateResource.cache
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\obj\Debug\Galery.csproj.CoreCompileInputs.cache
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\obj\Debug\Galery.csproj.CopyComplete
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\obj\Debug\Galery.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\obj\Debug\Galery.pdb
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\Galery.dll.config
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\Galery.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\Galery.pdb
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csc.exe
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csc.exe.config
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csc.rsp
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csi.exe
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csi.exe.config
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csi.rsp
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.AppContext.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Console.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Net.Http.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\vbc.exe
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\vbc.exe.config
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\vbc.rsp
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\Antlr3.Runtime.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\EntityFramework.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\EntityFramework.SqlServer.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\Newtonsoft.Json.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Helpers.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Mvc.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Optimization.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Razor.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\WebGrease.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\Antlr3.Runtime.pdb
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\EntityFramework.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\EntityFramework.SqlServer.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\Newtonsoft.Json.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Helpers.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Mvc.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Optimization.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Razor.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.csprojResolveAssemblyReference.cache
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.Migrations.MigrateDB.resources
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.csproj.GenerateResource.Cache
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.csproj.CoreCompileInputs.cache
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.pdb
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\Galery\Galery\obj\Debug\Galery.Migrations.SampleMigrations.resources
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\Galery.dll.config
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\Galery.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\Galery.pdb
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csc.exe
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csc.exe.config
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csc.rsp
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csi.exe
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csi.exe.config
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\csi.rsp
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.AppContext.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Console.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.IO.Compression.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Net.Http.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.ValueTuple.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\vbc.exe
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\vbc.exe.config
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\vbc.rsp
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\VBCSCompiler.exe
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\Antlr3.Runtime.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\EntityFramework.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\EntityFramework.SqlServer.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\Newtonsoft.Json.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Helpers.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Mvc.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Optimization.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Razor.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Razor.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\WebGrease.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\Antlr3.Runtime.pdb
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\EntityFramework.xml
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\EntityFramework.SqlServer.xml
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Helpers.xml
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Mvc.xml
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Optimization.xml
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.Razor.xml
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.xml
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\System.Web.WebPages.Razor.xml
+D:\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.Migrations.MigrateDB.resources
+D:\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.Migrations.SampleMigrations.resources
+D:\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.csproj.GenerateResource.cache
+D:\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.csproj.CopyComplete
+D:\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.dll
+D:\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.pdb
+D:\Documents\GitHub\ASP_NET\Galery\Galery\obj\Debug\Galery.csprojAssemblyReference.cache
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\Newtonsoft.Json.pdb
+D:\Documents\GitHub\ASP_NET\Galery\Galery\bin\Newtonsoft.Json.xml

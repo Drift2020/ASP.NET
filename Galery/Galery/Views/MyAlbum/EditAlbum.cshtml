@@ -1,0 +1,71 @@
+﻿@model Galery.Models.Album
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EditAlbum</title>
+    <link href="~/Content/tables.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+
+                <th>
+                    Image
+                </th>
+               
+
+            </tr>
+
+            @if (Model.Photos != null && Model.Photos.Count > 0)
+            {
+                foreach (var item in Model.Photos)
+                {
+                    <tr>
+                        <td>
+                            <br />
+                            <img width="400" height="400" src="@Html.DisplayFor(modelItem => item.Path)" />
+                            <br />
+                            <h4>Name: @Html.DisplayFor(modelItem => item.Name)</h4>
+                            <br />
+                            <h4>Date: @Html.DisplayFor(modelItem => item.UpLoad)</h4>
+                            <br />
+                            <div style="float:left">
+                                @using (Html.BeginForm("Edit", "MyAlbum", FormMethod.Post))
+                                {
+                                    @Html.AntiForgeryToken()
+                                    @Html.TextBox("uname", item.Name)
+                                    <input type="submit" value="Edit" name="Edit" />
+                                    @Html.Hidden("uid", item.Id)
+
+                                }
+                            </div>
+                            <div style="float:left">
+                                @using (Html.BeginForm("Delete", "MyAlbum", FormMethod.Post))
+                                {
+                                    @Html.AntiForgeryToken()
+                                    <input type="submit" value="Delete" name="Delete" />
+                                    @Html.Hidden("uid", item.Id)
+
+                                }
+                            </div>
+
+                        </td>
+                       
+                      
+                    </tr>
+                }
+            }
+
+        </table>
+
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,87 @@
+﻿@model  Music2.Models.SoundModel
+@{
+Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EditMusic</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+
+                <th>
+                    Name
+                </th>
+                <th>
+                    Genre
+                </th>
+                <th>
+
+                </th>
+
+            </tr>
+
+            @foreach (var item in Model.sound)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+
+                    <td>
+               
+                    @{
+                        var elements = Model.sound_gener.Where(x=>x.Id_sound== item.Id);
+
+                        foreach (var item1 in elements.ToList())
+                        {
+
+                                @Html.DisplayFor(modelItem => item1.Genre.Name)<a>|</a>
+
+                               
+
+
+
+                        }
+                    }
+               
+                </td>
+
+                    <td>
+                        <div style="float:left">
+                            @using (Html.BeginForm("EditMusicGenre", "Home", FormMethod.Post))
+                            {
+                                @Html.AntiForgeryToken()
+                                <input type="submit" value="Edit" name="Edit" />
+                                @Html.Hidden("uid", item.Id)
+
+                            }
+                        </div>
+                        <div style="float:left">
+                            @using (Html.BeginForm("DeleteSound", "Home", FormMethod.Post))
+                            {
+                                @Html.AntiForgeryToken()
+                                <input type="submit" value="Delete" name="Delete" />
+                                @Html.Hidden("uid", item.Id)
+
+                            }
+                        </div>
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+    <div>
+        @Html.ActionLink("Back to home", "Page")<a>|</a>
+        @Html.ActionLink("Back to panel", "AdminPanel")
+    </div>
+</body>
+</html>

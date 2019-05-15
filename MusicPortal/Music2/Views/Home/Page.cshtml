@@ -1,0 +1,113 @@
+﻿
+@model  Music2.Models.PageModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Page</title>
+    <style type="text/css">
+        a.my-class {
+            color: green
+        }
+    </style>
+
+</head>
+<body>
+    <div>
+        <div style=" text-align: center">Music portal</div>
+        <div>Hello, @Session["Login"].ToString()  @Html.ActionLink("Log out", "IndexEnd")</div>
+        @if (Session["Status"].ToString() == "0")
+        {
+            @Html.ActionLink("Admin panel", "AdminPanel")
+
+        }
+
+
+        @*@using (Html.BeginForm("Page", "home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <input type="submit" name="Submit" id="SubmitMultiply" value="Upload" />
+                <input type="file" name="fileUpload" multiple />
+
+        }*@
+
+        @using (Html.BeginForm("Pages", "home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.AntiForgeryToken()
+
+            <input type="file" name="fileUpload" multiple /><br />
+            <input type="submit" name="Submit" id="SubmitMultiply" value="Upload" />
+            <div style=" text-align: center">Select genre for file(s)</div>
+
+            <p>
+                @foreach (var item in Model.my_Genre)
+                {
+                    <label>@Html.DisplayFor(modelItem => item.Name)</label>
+                    <input type="checkbox" name="bettingOfficeIDs" value="@item.Id">
+                }
+
+            </p>
+        }
+
+
+        @*<table>
+            <tr>
+                @foreach (var item in Model.my_Genre)
+            {
+
+                <th>
+                    @Html.DisplayFor(modelItem => item.Name)<input type="checkbox" name="checkboxName" value="@item.Id">
+                </th>
+
+                }
+
+            </tr>
+
+        </table>*@
+
+        <div style=" text-align: center">Music table</div>
+        <table>
+            <tr>
+
+                <th>
+                    Name
+                </th>
+                <th>
+                    Genre
+                </th>
+                <th>
+
+                </th>
+
+            </tr>
+
+            @foreach (var item in Model.my_Sound)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+
+                    <td>
+                        @foreach (var x in item.Sound_gener)
+                        {@Html.DisplayFor(modelItem => x.Genre.Name)<a>|</a>
+
+                    }
+
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Download", "Download_sound", new { name = item.Name })
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+</body>
+</html>

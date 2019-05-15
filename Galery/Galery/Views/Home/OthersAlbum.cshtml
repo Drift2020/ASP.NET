@@ -1,0 +1,138 @@
+﻿@model Galery.Models.OtherAlbumModel
+
+@{
+    Layout = Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>OthersAlbum</title>
+</head>
+<body>
+    <div>
+
+        <div>
+
+            <select id="list">
+                <option id="i5">5</option>
+                <option id="i10">10</option>
+                <option id="i20">20</option>
+                <option id="iAll">All</option>
+            </select>
+
+            <table id="main">
+                <tr>
+
+                    <th>
+                        Albums
+                    </th>
+
+
+                </tr>
+                @if (Model.albums != null)
+                {
+                    foreach (var item in Model.albums)
+                    {
+                        <tr>
+                            <td>
+                                @if (item.Photos.ToList().Count > 0)
+                                {
+
+                                    <img width="200" height="200" src="@Html.DisplayFor(modelItem => item.Photos.ToList()[0].Path)" />
+                                }
+                                <br />
+                                <h4>User: @Html.DisplayFor(modelItem => item.User.Login)</h4>
+                                <br />
+                                <h4>Name: @Html.DisplayFor(modelItem => item.Name)</h4>
+                                <br />
+                                <div style="float:left">
+                                    @using (Html.BeginForm("ViewAlbum", "Home", FormMethod.Post))
+                                    {
+                                        @Html.AntiForgeryToken()
+                                        <input type="submit" value="Open" name="Open" />
+                                        @Html.Hidden("uid", item.Id)
+
+                                    }
+                                </div>
+                            </td>
+
+
+                        </tr>
+                    }
+                }
+
+            </table>
+
+
+        </div>
+    </div>
+</body>
+</html>
+<script>
+
+
+    
+
+
+    function show(elem) {
+
+        //elem = JSON.parse(elem);
+        var table = $("#main");
+        table[0].innerHTML = "";
+        for (var i = 0; i < elem.albums.length;i++)
+        {
+            var str1 = "<tr><td>";
+            if (elem.albums[i].Photos.length > 0)
+            {
+
+                str1 += '<img width="200px" height="200px" src="' + elem.albums[i].Photos[0].Path +'" />';
+            }
+            
+            str1 +='<br />'
+            str1 += '<h4>User: ' + elem.albums[i].User.Login + '</h4>' + '<br />';
+            str1 += '<h4>Name: ' + elem.albums[i].Name + '</h4><br /> <div style="float:left">';
+            str1 += '<form action="/Home/ViewAlbum" method="post">' +
+                ' <input type="submit" value="Open" name="Open" />' +
+                '<input type="hidden" name="uid" value="' + elem.albums[i].Id.toString() + '" />' +
+                '</form>' + ' </div>' + '</td>' + '</tr>';
+            table[0].innerHTML += str1;
+
+        }
+     
+    }
+
+    $(function () {
+
+
+        $("#list").bind('change', function () {
+            var fd = new FormData();
+
+         
+            fd.append("count", $(this).find('option:selected').text().replace('i', ''))
+            fd.append("albums", null)
+               $.ajax({
+                type: "POST",
+                url: '@Url.Action("ChoiceCount", "Home")',
+                contentType: false, // Указывает тип содержимого, которое будет передано на сервер.
+                processData: false, // Логическое значение, устанавливающее, должны ли данные, передающиеся с запросом преобразовываться в строку или нет
+                data: fd,
+                dataType: "json",
+                success: function (result) {
+                    show(result);
+                },
+                error: function (xhr, status, p3) {
+                    alert(xhr.responseText);
+                }
+            });
+
+           @* alert($(this).find('option:selected').text());*@
+        });
+
+     
+
+
+    });
+</script>

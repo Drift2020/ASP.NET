@@ -1,0 +1,98 @@
+﻿@model  Music2.Models.UserModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AdminPanel</title>
+</head>
+<body>
+    <div class="flex-wrap">
+
+        <div class="justify-content-center">
+            <header>
+                <p>Admin panel</p>
+                @Html.ActionLink("New genre", "AddGener") <a>|</a>@Html.ActionLink("Edit genre", "EditGenre") <a>|</a>@Html.ActionLink("Edit music", "EditMusic")
+            </header>
+            <table>
+
+
+                <tr>
+
+                    <th>
+                        Login
+                    </th>
+                    <th>
+                        Active
+                    </th>
+                    <th>
+                        Status
+                    </th>
+                    <th>
+
+                    </th>
+                </tr>
+
+
+                @foreach (var item in Model.users)
+                {
+
+
+                    <tr>
+                      
+                            @Html.AntiForgeryToken()
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Login)
+
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.isActive)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Status)
+                            </td>
+
+                            <td>
+                                <div style="float:left">
+                                    @using (Html.BeginForm("isActive", "Home", FormMethod.Post))
+                                    {
+                                        <input type="submit" value="isActive" name="isActive" />
+                                        @Html.Hidden("uid", item.Id)
+                                    }
+                                </div>
+                                <div style="float:left">
+                                    @using (Html.BeginForm("Delete", "Home", FormMethod.Post))
+                                    {
+                                        <input type="submit" value="Delete" name="Delete" />
+                                        @Html.Hidden("uid", item.Id)
+                                    }
+
+                                    </div>
+
+                            </td>
+                       
+                    </tr>
+                }
+
+
+            </table>
+        </div>
+
+        <div class="blockquote-footer">
+
+
+
+
+            <p>@Html.ActionLink("Home", "Page")</p>
+        </div>
+    </div>
+
+    
+
+
+</body>
+</html>

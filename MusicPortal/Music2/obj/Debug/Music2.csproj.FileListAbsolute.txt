@@ -1,0 +1,127 @@
+C:\Users\drift\source\repos\Music\Music2\bin\Music2.dll.config
+C:\Users\drift\source\repos\Music\Music2\bin\Music2.dll
+C:\Users\drift\source\repos\Music\Music2\bin\Music2.pdb
+C:\Users\drift\source\repos\Music\Music2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\drift\source\repos\Music\Music2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\drift\source\repos\Music\Music2\bin\System.Web.Helpers.dll
+C:\Users\drift\source\repos\Music\Music2\bin\System.Web.Mvc.dll
+C:\Users\drift\source\repos\Music\Music2\bin\System.Web.Razor.dll
+C:\Users\drift\source\repos\Music\Music2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\drift\source\repos\Music\Music2\bin\System.Web.Webpages.dll
+C:\Users\drift\source\repos\Music\Music2\bin\System.Web.Webpages.Razor.dll
+C:\Users\drift\source\repos\Music\Music2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\drift\source\repos\Music\Music2\bin\System.Web.Razor.xml
+C:\Users\drift\source\repos\Music\Music2\bin\System.Web.Webpages.xml
+C:\Users\drift\source\repos\Music\Music2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\drift\source\repos\Music\Music2\bin\System.Web.Webpages.Razor.xml
+C:\Users\drift\source\repos\Music\Music2\bin\System.Web.Helpers.xml
+C:\Users\drift\source\repos\Music\Music2\bin\System.Web.Mvc.xml
+C:\Users\drift\source\repos\Music\Music2\obj\Debug\Music2.csproj.CoreCompileInputs.cache
+C:\Users\drift\source\repos\Music\Music2\obj\Debug\Music2.dll
+C:\Users\drift\source\repos\Music\Music2\obj\Debug\Music2.pdb
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.csproj.CoreCompileInputs.cache
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.dll
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.pdb
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.csprojAssemblyReference.cache
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.csproj.CoreCompileInputs.cache
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.pdb
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\Music2.dll.config
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\Music2.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\Music2.pdb
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\EntityFramework.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\EntityFramework.SqlServer.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\System.Web.Helpers.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\System.Web.Mvc.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\System.Web.Razor.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\EntityFramework.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\EntityFramework.SqlServer.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\System.Web.Razor.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\System.Web.Helpers.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\bin\System.Web.Mvc.xml
+C:\Users\Buje_jy89\Documents\Visual Studio 2017\Projects\wpf\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.csproj.CopyComplete
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\Music2.dll.config
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\Music2.dll
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\Music2.pdb
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\EntityFramework.dll
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\EntityFramework.SqlServer.dll
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\Microsoft.Web.Infrastructure.dll
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Helpers.dll
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Mvc.dll
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Razor.dll
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Deployment.dll
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.dll
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Razor.dll
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\EntityFramework.xml
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\EntityFramework.SqlServer.xml
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Razor.xml
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.xml
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Deployment.xml
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Razor.xml
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Helpers.xml
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Mvc.xml
+E:\Program\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.csprojResolveAssemblyReference.cache
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\Music2.dll.config
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\Music2.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\Music2.pdb
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\EntityFramework.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\EntityFramework.SqlServer.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Helpers.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Mvc.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Razor.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\EntityFramework.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\EntityFramework.SqlServer.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Razor.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Helpers.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Mvc.xml
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.csprojResolveAssemblyReference.cache
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.csproj.CoreCompileInputs.cache
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.dll
+C:\Users\Mamory\Documents\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.pdb
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\Music2.dll.config
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\Music2.dll
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\Music2.pdb
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\EntityFramework.dll
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\EntityFramework.SqlServer.dll
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Helpers.dll
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Mvc.dll
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Razor.dll
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Deployment.dll
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.dll
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Razor.dll
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\EntityFramework.xml
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\EntityFramework.SqlServer.xml
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Razor.xml
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.xml
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Deployment.xml
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Webpages.Razor.xml
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Helpers.xml
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\bin\System.Web.Mvc.xml
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.csprojAssemblyReference.cache
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.csproj.CopyComplete
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.dll
+D:\Documents\GitHub\ASP_NET\MusicPortal\Music2\obj\Debug\Music2.pdb

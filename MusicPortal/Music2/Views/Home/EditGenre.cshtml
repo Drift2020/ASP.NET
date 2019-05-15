@@ -1,0 +1,65 @@
+﻿@model  Music2.Models.GenresModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EditGanre</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+
+                <th>
+                    Name
+                </th>
+                <th>
+
+                </th>
+
+            </tr>
+
+            @foreach (var item in Model.genre)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+
+                    <td>
+                        <div style="float:left">
+                            @using (Html.BeginForm("Edit", "Home", FormMethod.Post))
+                            {
+                                @Html.AntiForgeryToken()
+                                <input type="submit" value="Edit" name="Edit" />
+                                @Html.Hidden("uid", item.Id)
+                                @Html.TextBox("uname", item.Name)
+                            }
+                        </div>
+                        <div style="float:left">
+                            @using (Html.BeginForm("DeleteGenre", "Home", FormMethod.Post))
+                            {
+                                @Html.AntiForgeryToken()
+                                <input type="submit" value="Delete" name="Delete" />
+                                @Html.Hidden("uid", item.Id)
+
+                            }
+                            </div>
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+    <div>
+        @Html.ActionLink("Back to home", "Page")<a>|</a>
+        @Html.ActionLink("Back to panel", "AdminPanel")
+    </div>
+</body>
+</html>

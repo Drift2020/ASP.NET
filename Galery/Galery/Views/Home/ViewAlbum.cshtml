@@ -1,0 +1,183 @@
+﻿@model Galery.Models.ViewAlbumModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ViewAlbum</title>
+</head>
+<body>
+    <div>
+        <div  width="400px" height="400px" id="image">
+            <img src="" />
+        </div>
+     
+        <button id="back">Back</button>
+        <button id="slidesho">Slidesho</button>
+        <button id="next">Next</button>
+    </div>
+
+    
+</body>
+
+
+</html>
+<script type="text/javascript">
+        var number = -1;
+
+    function back(i) {
+        var div = $("#image");
+       
+
+        div[0].innerHTML = "<img width=\"400px\" height=\"400px\"  src=\"" + i.src + "\" alt=\"ERROR 404\"/>"
+
+    }
+
+
+    function next(i) {
+        var div = $("#image");
+
+
+        div[0].innerHTML = "<img width=\"400px\" height=\"400px\"  src=\"" + i.src + "\" alt=\"ERROR 404\"/>"
+
+    }
+
+    function func(div, i) {
+
+        if (i.number < i.src.length) {
+            i.number++;
+        }
+        else {
+            i.number=0;
+        }
+        div.innerHTML = "<img width=\"400px\" height=\"400px\"   src=\"" + i.src[i.number] + "\" alt=\"ERROR 404\"/>"
+
+    }
+
+    var timerId;
+    function slidesho(i) {
+        var div = $("#image");
+
+        if (i.number != -1) {
+            timerId = setInterval(func, 4000, div[0], i);
+            $('#next')[0].disabled = true;
+            $('#back')[0].disabled = true;
+
+           
+        }
+        else {
+            clearTimeout(timerId);
+            $('#next')[0].disabled = false;
+            $('#back')[0].disabled = false;
+        }
+
+    }
+    
+    
+
+    $(function () {
+
+            var fd = new FormData();
+            fd.append("number",@Model.number);
+            fd.append("id", @Model.id);
+            fd.append("src", "@Model.src");
+
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("Next", "Home")',
+                contentType: false, // Указывает тип содержимого, которое будет передано на сервер.
+                processData: false, // Логическое значение, устанавливающее, должны ли данные, передающиеся с запросом преобразовываться в строку или нет
+                data: fd,
+                dataType: "json",            
+                success: function (result) {
+                 
+                    next(result);
+
+                },
+                error: function (xhr, status, p3) {
+                    alert(xhr.responseText);
+                }
+            });
+    });
+
+
+
+        $('#next').click(function () {
+          
+            var fd = new FormData();
+            fd.append("number",@Model.number);
+            fd.append("id", @Model.id);
+            fd.append("src", "@Model.src");
+            
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("Next", "Home")',
+                contentType: false, // Указывает тип содержимого, которое будет передано на сервер.
+                processData: false, // Логическое значение, устанавливающее, должны ли данные, передающиеся с запросом преобразовываться в строку или нет
+                data: fd,
+                dataType: "json",            
+                success: function (result) {
+                    next(result);
+                },
+                error: function (xhr, status, p3) {
+                    alert(xhr.responseText);
+                }
+            });
+
+    });
+
+
+    $('#back').click(function () {
+           
+            var fd = new FormData();
+            fd.append("number",@Model.number);
+            fd.append("id", @Model.id);
+            fd.append("src", "@Model.src");
+            
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("Back", "Home")',
+                contentType: false, // Указывает тип содержимого, которое будет передано на сервер.
+                processData: false, // Логическое значение, устанавливающее, должны ли данные, передающиеся с запросом преобразовываться в строку или нет
+                data: fd,
+                dataType: "json",            
+                success: function (result) {
+                    back(result);
+                },
+                error: function (xhr, status, p3) {
+                    alert(xhr.responseText);
+                }
+            });
+
+    });
+
+
+    $('#slidesho').click(function () {
+           
+            var fd = new FormData();
+            fd.append("number",@Model.number);
+            fd.append("id", @Model.id);
+            fd.append("src", "@Model.src");
+            
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("Slidesho", "Home")',
+                contentType: false, // Указывает тип содержимого, которое будет передано на сервер.
+                processData: false, // Логическое значение, устанавливающее, должны ли данные, передающиеся с запросом преобразовываться в строку или нет
+                data: fd,
+                dataType: "json",            
+                success: function (result) {
+                    slidesho(result);
+                },
+                error: function (xhr, status, p3) {
+                    alert(xhr.responseText);
+                }
+            });
+
+        });
+</script>
