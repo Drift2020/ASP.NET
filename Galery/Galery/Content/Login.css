@@ -1,0 +1,41 @@
+﻿.my_ref {
+    padding: 0px 0px 0px 30%;
+
+}
+@media all and (-webkit-min-device-pixel-ratio:0) and (min-resolution: .001dpcm) {
+
+
+    section {
+        background: black;
+        color: white;
+        border-radius: 1em;
+        padding: 1em;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        
+        width:300px;
+        transform: translate(-50%, -50%)
+    }
+    section div {
+        padding: 0px 0px 0px 0px !important;
+        max-width: 100% !important;
+    }
+
+    
+}
+
+@-moz-document url-prefix() {
+    section {
+        background: black;
+        color: white;
+        border-radius: 1em;
+        padding: 1em;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
+    }
+}

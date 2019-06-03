@@ -14,11 +14,14 @@
     <meta name="viewport" content="width=device-width" />
     <title>Login</title>
     <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/Login.css" rel="stylesheet" type="text/css" />
     <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <script src="~/Scripts/modernizr-2.8.3.js"></script>
 </head>
-<body >
-    <div >
+<body>
+    @*<div class="container6">
+        <div>*@
+    <section>
 
 
         @using (Html.BeginForm())
@@ -49,13 +52,17 @@
                     </div>
                 </div>
             </div>
+
         }
 
-        <div>
+        <div class="my_ref">
             @Html.ActionLink("Registration", "Register")
         </div>
+    </section>
+    @*</div>
+        </div>*@
 
-    </div>
+
 </body>
 </html>
 
